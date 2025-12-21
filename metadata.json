@@ -1,0 +1,9 @@
+
+{
+  "name": "Cinema Vision",
+  "description": "Full-featured cinema booking system with an interactive UI, movie browsing, showtime selection, and interactive seat booking with an AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
